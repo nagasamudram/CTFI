@@ -1,0 +1,2 @@
+# CTFI
+movie segregation exercise
